@@ -35,4 +35,11 @@ http://localhost:8000/show_one_to_one_PersonalInformation_to_idUser_table
 http://localhost:8000/show_one_to_one_idCard_to_addressCard_table
 http://localhost:8000/show_one_to_one_user_to_idCard_table
 
+10.ตรวจหน้าweb run url on web broswer บิล
+http://localhost:8000/bill
+11.ตรวจหน้าweb run url on web broswer หน้าหลัก
+http://localhost:8000/home
+12.ตรวจหน้าweb run url on web broswer login and register อย่าลืม run command line ดังนี้ npm run dev ใน terminal
+http://localhost:8000/login
+http://localhost:8000/register
 
