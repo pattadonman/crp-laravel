@@ -43,3 +43,5 @@ http://localhost:8000/home
 http://localhost:8000/login
 http://localhost:8000/register
 
+สามารถdownloadได้อีกช่องทาง
+https://drive.google.com/file/d/1VOWwLkMlmJWGlo77BBsq8SMR09AWdM_p/view?usp=sharing
